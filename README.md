@@ -38,4 +38,3 @@ This landing page was built to:
 - **Smooth Interactivity**: React.js ensures a seamless user experience with interactive features.
 - **Fast Performance**: Thanks to Vite, the landing page has optimized load times and quick development feedback.
 - **Contact Form**: Integrated with **Nodemailer** for sending email inquiries directly from the website.
-
