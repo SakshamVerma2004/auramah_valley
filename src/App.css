@@ -1,6 +1,11 @@
 html,
 body {
   overflow-x: hidden;
+  background-color: white;
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
 
 * {
